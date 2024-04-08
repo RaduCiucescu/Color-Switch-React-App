@@ -1,0 +1,45 @@
+.collor-switch-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 44px;
+    
+}
+.app-title{
+    font-size: 80px;
+    font-style: italic;
+    color:var(--title);
+    margin-bottom: 80px;
+}
+.background-color-section{
+    font-size: 28px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: var(--background-text);
+    color: #FFFFFF;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.subsection-text{
+    font-size: 22px;
+}
+.arrow-down-image{
+    width: 60px;
+    height: 60px;
+}
+.click-me-button{
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+}
